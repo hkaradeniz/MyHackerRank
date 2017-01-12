@@ -11,15 +11,6 @@ namespace Anagram
             int tc = int.Parse(Console.ReadLine());
             int counter;
 
-            /*
-            aaabbb
-            ab
-            abc
-            mnop
-            xyyx
-            xaxbbbxx
-            */
-
             while (tc != 0)
             {
                 counter = 0;
