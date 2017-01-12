@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloHackerRank", "HelloHac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternatingCharacters", "AlternatingCharacters\AlternatingCharacters.csproj", "{1C0F6017-C9FE-4F85-957D-CAB695110FD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Anagram\Anagram.csproj", "{348C7ABC-F2A6-4CC4-AB17-7624C23A2162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1C0F6017-C9FE-4F85-957D-CAB695110FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C0F6017-C9FE-4F85-957D-CAB695110FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C0F6017-C9FE-4F85-957D-CAB695110FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348C7ABC-F2A6-4CC4-AB17-7624C23A2162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348C7ABC-F2A6-4CC4-AB17-7624C23A2162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348C7ABC-F2A6-4CC4-AB17-7624C23A2162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348C7ABC-F2A6-4CC4-AB17-7624C23A2162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
