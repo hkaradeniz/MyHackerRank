@@ -32,5 +32,6 @@ namespace ChocolateFeast
 
                 Console.WriteLine(totalChocolate);
             }
+        }
     }
 }
