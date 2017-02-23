@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximizingXOR", "Maximizing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifiedKaprekarNumbers", "ModifiedKaprekarNumbers\ModifiedKaprekarNumbers.csproj", "{C5A9C093-6DB5-4CAF-B6A0-0B1E14F26598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectnessAndTheLoopInvariant", "CorrectnessAndTheLoopInvariant\CorrectnessAndTheLoopInvariant.csproj", "{12029AE4-3C94-450F-BD1F-150EBA5B0F00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{C5A9C093-6DB5-4CAF-B6A0-0B1E14F26598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A9C093-6DB5-4CAF-B6A0-0B1E14F26598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A9C093-6DB5-4CAF-B6A0-0B1E14F26598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12029AE4-3C94-450F-BD1F-150EBA5B0F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12029AE4-3C94-450F-BD1F-150EBA5B0F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12029AE4-3C94-450F-BD1F-150EBA5B0F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12029AE4-3C94-450F-BD1F-150EBA5B0F00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
