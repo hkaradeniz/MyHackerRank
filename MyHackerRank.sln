@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Encryption\En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualStacks", "EqualStacks\EqualStacks.csproj", "{4EDC219C-193D-42A7-9D94-43973445A267}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{76E4E7FD-7D81-4B55-9A3C-EB7E724A03EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{4EDC219C-193D-42A7-9D94-43973445A267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EDC219C-193D-42A7-9D94-43973445A267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EDC219C-193D-42A7-9D94-43973445A267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E4E7FD-7D81-4B55-9A3C-EB7E724A03EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E4E7FD-7D81-4B55-9A3C-EB7E724A03EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E4E7FD-7D81-4B55-9A3C-EB7E724A03EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E4E7FD-7D81-4B55-9A3C-EB7E724A03EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
