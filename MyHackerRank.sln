@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngryProfessor", "AngryProf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtoiTest", "AtoiTest\AtoiTest.csproj", "{762B8E18-B7D2-4B28-B2E0-A79D732D293B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulBinaryString", "BeautifulBinaryString\BeautifulBinaryString.csproj", "{5E19311A-B030-478F-AB26-0157D313D642}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{762B8E18-B7D2-4B28-B2E0-A79D732D293B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{762B8E18-B7D2-4B28-B2E0-A79D732D293B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{762B8E18-B7D2-4B28-B2E0-A79D732D293B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E19311A-B030-478F-AB26-0157D313D642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E19311A-B030-478F-AB26-0157D313D642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E19311A-B030-478F-AB26-0157D313D642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E19311A-B030-478F-AB26-0157D313D642}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
