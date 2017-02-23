@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximiseSum", "MaximiseSum\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximizingXOR", "MaximizingXOR\MaximizingXOR.csproj", "{BCD423B7-B9C4-41C8-8615-4FCBA8C5EB15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifiedKaprekarNumbers", "ModifiedKaprekarNumbers\ModifiedKaprekarNumbers.csproj", "{C5A9C093-6DB5-4CAF-B6A0-0B1E14F26598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{BCD423B7-B9C4-41C8-8615-4FCBA8C5EB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCD423B7-B9C4-41C8-8615-4FCBA8C5EB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCD423B7-B9C4-41C8-8615-4FCBA8C5EB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A9C093-6DB5-4CAF-B6A0-0B1E14F26598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A9C093-6DB5-4CAF-B6A0-0B1E14F26598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A9C093-6DB5-4CAF-B6A0-0B1E14F26598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A9C093-6DB5-4CAF-B6A0-0B1E14F26598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
