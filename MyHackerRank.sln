@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateFeast", "Chocolate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{384744F9-D673-4566-B63F-4271A928565A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutTheSticks", "CutTheSticks\CutTheSticks.csproj", "{D3BF5B5B-15E6-4D17-B465-0E6E924AF3BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{384744F9-D673-4566-B63F-4271A928565A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{384744F9-D673-4566-B63F-4271A928565A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{384744F9-D673-4566-B63F-4271A928565A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BF5B5B-15E6-4D17-B465-0E6E924AF3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BF5B5B-15E6-4D17-B465-0E6E924AF3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BF5B5B-15E6-4D17-B465-0E6E924AF3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BF5B5B-15E6-4D17-B465-0E6E924AF3BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
