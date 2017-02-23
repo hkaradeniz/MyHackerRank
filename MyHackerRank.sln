@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockAndArray", "Sherloc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockAndSquares", "SherlockAndSquares\SherlockAndSquares.csproj", "{55FC45E6-F533-40A6-B07C-8C650C16DFE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockAndTheBeast", "SherlockAndTheBeast\SherlockAndTheBeast.csproj", "{34C33A35-269A-4E34-8E05-F43D9960A443}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{55FC45E6-F533-40A6-B07C-8C650C16DFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55FC45E6-F533-40A6-B07C-8C650C16DFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55FC45E6-F533-40A6-B07C-8C650C16DFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C33A35-269A-4E34-8E05-F43D9960A443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C33A35-269A-4E34-8E05-F43D9960A443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C33A35-269A-4E34-8E05-F43D9960A443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C33A35-269A-4E34-8E05-F43D9960A443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
