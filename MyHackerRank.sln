@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\Came
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CavityMap", "CavityMap\CavityMap.csproj", "{45556141-2564-4B8D-94C8-B6C408C60593}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharToAscii", "CharToAscii\CharToAscii.csproj", "{9A503D17-D3AD-471F-A349-7F8C81A50E9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{45556141-2564-4B8D-94C8-B6C408C60593}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45556141-2564-4B8D-94C8-B6C408C60593}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45556141-2564-4B8D-94C8-B6C408C60593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A503D17-D3AD-471F-A349-7F8C81A50E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A503D17-D3AD-471F-A349-7F8C81A50E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A503D17-D3AD-471F-A349-7F8C81A50E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A503D17-D3AD-471F-A349-7F8C81A50E9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
