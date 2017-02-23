@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JimAndTheOrders", "JimAndTh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnTheClouds", "JumpingOnTheClouds\JumpingOnTheClouds.csproj", "{AFE94199-41E6-406C-9637-4E0D8DB1BE99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnTheCloudsRevisited", "JumpingOnTheCloudsRevisited\JumpingOnTheCloudsRevisited.csproj", "{95E8ED55-7128-4714-B02C-D2B67909666B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{AFE94199-41E6-406C-9637-4E0D8DB1BE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFE94199-41E6-406C-9637-4E0D8DB1BE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFE94199-41E6-406C-9637-4E0D8DB1BE99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E8ED55-7128-4714-B02C-D2B67909666B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E8ED55-7128-4714-B02C-D2B67909666B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E8ED55-7128-4714-B02C-D2B67909666B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E8ED55-7128-4714-B02C-D2B67909666B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
