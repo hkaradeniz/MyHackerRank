@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlippingBits", "FlippingBit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloydsCycleFindingAlgorithm", "FloydsCycleFindingAlgorithm\FloydsCycleFindingAlgorithm.csproj", "{40C2E6CD-60B8-40C3-B6FB-AAF56984E839}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunnyString", "FunnyString\FunnyString.csproj", "{4BB110C0-E27B-4E7B-97F9-D24726577D5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{40C2E6CD-60B8-40C3-B6FB-AAF56984E839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40C2E6CD-60B8-40C3-B6FB-AAF56984E839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40C2E6CD-60B8-40C3-B6FB-AAF56984E839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB110C0-E27B-4E7B-97F9-D24726577D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB110C0-E27B-4E7B-97F9-D24726577D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB110C0-E27B-4E7B-97F9-D24726577D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB110C0-E27B-4E7B-97F9-D24726577D5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
