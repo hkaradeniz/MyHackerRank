@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CavityMap", "CavityMap\Cavi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharToAscii", "CharToAscii\CharToAscii.csproj", "{9A503D17-D3AD-471F-A349-7F8C81A50E9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateFeast", "ChocolateFeast\ChocolateFeast.csproj", "{C5B935C7-19CD-4DE7-BA53-EBFE7780FE93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9A503D17-D3AD-471F-A349-7F8C81A50E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A503D17-D3AD-471F-A349-7F8C81A50E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A503D17-D3AD-471F-A349-7F8C81A50E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B935C7-19CD-4DE7-BA53-EBFE7780FE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B935C7-19CD-4DE7-BA53-EBFE7780FE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B935C7-19CD-4DE7-BA53-EBFE7780FE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B935C7-19CD-4DE7-BA53-EBFE7780FE93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

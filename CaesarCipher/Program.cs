@@ -4,10 +4,10 @@ namespace CaesarCipher
 {
     class Program
     {
-        static int LowerCaseMin = 97;
-        static int LowerCaseMax = 122;
-        static int UpperCaseMin = 65;
-        static int UpperCaseMax = 90;
+        //static int LowerCaseMin = 97;
+        //static int LowerCaseMax = 122;
+        //static int UpperCaseMin = 65;
+        //static int UpperCaseMax = 90;
 
         static void Main(string[] args)
         {
