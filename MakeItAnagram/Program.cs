@@ -63,5 +63,5 @@ namespace MakeItAnagram
             Console.WriteLine(totalDifference);
         }
     }
-    }
+    
 }
