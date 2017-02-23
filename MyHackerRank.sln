@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonAppetit", "BonAppetit\Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCipher\CaesarCipher.csproj", "{3DDD12CA-D61F-4C98-8829-8305E433A675}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\CamelCase.csproj", "{8503F1BD-0CD2-4060-AFF3-A48A79997202}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{3DDD12CA-D61F-4C98-8829-8305E433A675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DDD12CA-D61F-4C98-8829-8305E433A675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DDD12CA-D61F-4C98-8829-8305E433A675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8503F1BD-0CD2-4060-AFF3-A48A79997202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8503F1BD-0CD2-4060-AFF3-A48A79997202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8503F1BD-0CD2-4060-AFF3-A48A79997202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8503F1BD-0CD2-4060-AFF3-A48A79997202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
