@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCiphe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\CamelCase.csproj", "{8503F1BD-0CD2-4060-AFF3-A48A79997202}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CavityMap", "CavityMap\CavityMap.csproj", "{45556141-2564-4B8D-94C8-B6C408C60593}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{8503F1BD-0CD2-4060-AFF3-A48A79997202}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8503F1BD-0CD2-4060-AFF3-A48A79997202}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8503F1BD-0CD2-4060-AFF3-A48A79997202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45556141-2564-4B8D-94C8-B6C408C60593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45556141-2564-4B8D-94C8-B6C408C60593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45556141-2564-4B8D-94C8-B6C408C60593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45556141-2564-4B8D-94C8-B6C408C60593}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
