@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnTheCloudsRevisited
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{47342236-56A1-4B2C-B0D5-022F85A56DEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LisasWorkbook", "LisasWorkbook\LisasWorkbook.csproj", "{2C19F4A4-D185-4252-9CD1-14A8781B7DFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{47342236-56A1-4B2C-B0D5-022F85A56DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47342236-56A1-4B2C-B0D5-022F85A56DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47342236-56A1-4B2C-B0D5-022F85A56DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C19F4A4-D185-4252-9CD1-14A8781B7DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C19F4A4-D185-4252-9CD1-14A8781B7DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C19F4A4-D185-4252-9CD1-14A8781B7DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C19F4A4-D185-4252-9CD1-14A8781B7DFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
