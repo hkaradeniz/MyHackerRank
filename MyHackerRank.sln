@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharToAscii", "CharToAscii\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateFeast", "ChocolateFeast\ChocolateFeast.csproj", "{C5B935C7-19CD-4DE7-BA53-EBFE7780FE93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{384744F9-D673-4566-B63F-4271A928565A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C5B935C7-19CD-4DE7-BA53-EBFE7780FE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5B935C7-19CD-4DE7-BA53-EBFE7780FE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5B935C7-19CD-4DE7-BA53-EBFE7780FE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384744F9-D673-4566-B63F-4271A928565A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384744F9-D673-4566-B63F-4271A928565A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384744F9-D673-4566-B63F-4271A928565A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384744F9-D673-4566-B63F-4271A928565A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
