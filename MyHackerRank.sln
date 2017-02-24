@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackWithQueue", "StackWith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{5098B420-FBE2-49A8-9723-F49DECB26D5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMaximize", "StockMaximize\StockMaximize.csproj", "{1EE39B87-F50F-4A4E-9C2A-880DA8AFCC95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{5098B420-FBE2-49A8-9723-F49DECB26D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5098B420-FBE2-49A8-9723-F49DECB26D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5098B420-FBE2-49A8-9723-F49DECB26D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE39B87-F50F-4A4E-9C2A-880DA8AFCC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE39B87-F50F-4A4E-9C2A-880DA8AFCC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE39B87-F50F-4A4E-9C2A-880DA8AFCC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE39B87-F50F-4A4E-9C2A-880DA8AFCC95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
