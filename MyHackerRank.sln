@@ -125,6 +125,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMaximumSubarray", "TheMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTimeInWords", "TheTimeInWords\TheTimeInWords.csproj", "{C969C26F-2C63-440F-BFEE-5D11AF325302}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{46FF2CC5-38A6-4569-94CE-FA586EA08F93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +377,10 @@ Global
 		{C969C26F-2C63-440F-BFEE-5D11AF325302}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C969C26F-2C63-440F-BFEE-5D11AF325302}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C969C26F-2C63-440F-BFEE-5D11AF325302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46FF2CC5-38A6-4569-94CE-FA586EA08F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FF2CC5-38A6-4569-94CE-FA586EA08F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FF2CC5-38A6-4569-94CE-FA586EA08F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FF2CC5-38A6-4569-94CE-FA586EA08F93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
