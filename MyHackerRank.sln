@@ -113,6 +113,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Stai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMaximize", "StockMaximize\StockMaximize.csproj", "{1EE39B87-F50F-4A4E-9C2A-880DA8AFCC95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConstruction", "StringConstruction\StringConstruction.csproj", "{43C3121C-164C-41EC-AB37-7BDFE3A43052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -339,6 +341,10 @@ Global
 		{1EE39B87-F50F-4A4E-9C2A-880DA8AFCC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EE39B87-F50F-4A4E-9C2A-880DA8AFCC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EE39B87-F50F-4A4E-9C2A-880DA8AFCC95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C3121C-164C-41EC-AB37-7BDFE3A43052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C3121C-164C-41EC-AB37-7BDFE3A43052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C3121C-164C-41EC-AB37-7BDFE3A43052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C3121C-164C-41EC-AB37-7BDFE3A43052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
