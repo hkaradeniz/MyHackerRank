@@ -43,9 +43,9 @@ Think of the alphabet as being both case-sensitive and circular; if K rotates pa
 it loops back to the beginning (i.e.: the letter after z is a, and the letter after Z is A).
 
 Selected Examples: 
-m (ASCII 109) becomes o (ASCII 111). 
-i (ASCII 105) becomes k (ASCII 107). 
-- remains the same, as symbols are not encoded. 
-O (ASCII 79) becomes Q (ASCII 81). 
-z (ASCII 122) becomes b (ASCII 98); because z is the last letter of the alphabet, a (ASCII 97) is the 
+* m (ASCII 109) becomes o (ASCII 111). 
+* i (ASCII 105) becomes k (ASCII 107). 
+* - remains the same, as symbols are not encoded. 
+* O (ASCII 79) becomes Q (ASCII 81). 
+* z (ASCII 122) becomes b (ASCII 98); because z is the last letter of the alphabet, a (ASCII 97) is the 
 next letter after it in lower-case rotation.
