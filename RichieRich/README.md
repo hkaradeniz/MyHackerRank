@@ -8,7 +8,7 @@ of characters which reads the same backward as it does forward. For example, mad
 
 On her 7^th birthday, Sandy's uncle, Richie Rich, offered her an n-digit check which she refused 
 because the number was not a palindrome. Richie then challenged Sandy to make the number 
-palindromic by changing no more than digits. Sandy can only change 1 digit at a time, and 
+palindromic by changing no more than k digits. Sandy can only change 1 digit at a time, and 
 cannot add digits to (or remove digits from) the number.
 
 Given k and an n-digit number, help Sandy determine the largest possible number she can make by changing <=k digits.
