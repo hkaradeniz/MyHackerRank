@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoStrings", "TwoStrings\Tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{B9D64CA7-EDDA-4090-A67B-B842ABEF3486}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-MaxSum", "Mini-MaxSum\Mini-MaxSum.csproj", "{DD800B52-6F49-4B40-9359-5C408E6157A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -399,6 +401,10 @@ Global
 		{B9D64CA7-EDDA-4090-A67B-B842ABEF3486}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9D64CA7-EDDA-4090-A67B-B842ABEF3486}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9D64CA7-EDDA-4090-A67B-B842ABEF3486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD800B52-6F49-4B40-9359-5C408E6157A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD800B52-6F49-4B40-9359-5C408E6157A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD800B52-6F49-4B40-9359-5C408E6157A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD800B52-6F49-4B40-9359-5C408E6157A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
