@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtopianTree", "UtopianTree\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-MaxSum", "Mini-MaxSum\Mini-MaxSum.csproj", "{DD800B52-6F49-4B40-9359-5C408E6157A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{63A6825C-9F1F-44E6-A97E-2E6EBD5B7561}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +407,10 @@ Global
 		{DD800B52-6F49-4B40-9359-5C408E6157A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD800B52-6F49-4B40-9359-5C408E6157A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD800B52-6F49-4B40-9359-5C408E6157A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A6825C-9F1F-44E6-A97E-2E6EBD5B7561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A6825C-9F1F-44E6-A97E-2E6EBD5B7561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A6825C-9F1F-44E6-A97E-2E6EBD5B7561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A6825C-9F1F-44E6-A97E-2E6EBD5B7561}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
